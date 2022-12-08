@@ -1,1 +1,1 @@
-# strings
+# STRINGS
